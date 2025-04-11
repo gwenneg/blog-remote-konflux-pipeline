@@ -4,6 +4,7 @@
   "tekton": {
     "schedule": ["at any time"],
     "autoApprove": true,
-    "automerge": true
+    "automerge": true,
+    "automergeType": "pr"
   }
 }
