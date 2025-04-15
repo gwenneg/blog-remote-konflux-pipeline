@@ -3,7 +3,6 @@
   "extends": ["github>konflux-ci/mintmaker//config/renovate/renovate.json"],
   "tekton": {
     "schedule": ["at any time"],
-    "autoApprove": true,
     "automerge": true
   }
 }
